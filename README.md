@@ -6,9 +6,9 @@ A secure and scalable cleaning service marketplace that connects **Homeowners** 
 
 ## 📸 Screenshots
 
-| Open Page | Homeowner Page | Maid Page | Dashboard Page |
+| Open Page | Homeowner Page | Maid Page | 
 |:---:|:---:|:---:|:---:|
-| ![Home Screenshot](./public/open.png) | ![Home Screenshot](./public/homeonwer.png) | ![Home Screenshot](./public/maid.jpg) | ![Home Screenshot](./public/dashborad.jpg) |
+| ![Home Screenshot](./public/open.png) | ![Home Screenshot](./public/homeonwer.png) | ![Home Screenshot](./public/maid.jpg) |
 
 ---
 
