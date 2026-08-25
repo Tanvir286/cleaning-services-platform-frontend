@@ -6,14 +6,15 @@ A secure and scalable cleaning service marketplace that connects **Homeowners** 
 
 ## 📸 Screenshots
 
-| Open Page | Homeowner Page | Maid Page | 
-|:---:|:---:|:---:|:---:|
-| ![Home Screenshot](./public/open.png) | ![Home Screenshot](./public/homeonwer.png) | ![Home Screenshot](./public/maid.jpg) |
+| Open Page | Homeowner Page | Maid Page |
+|:---:|:---:|:---:|
+| <img src="./public/open.png" width="400" height="650" /> | <img src="./public/homeonwer.png" width="400" height="650" /> | <img src="./public/maid.jpg" width="400" height="650" /> |
 
 ---
+## 🔗 Live Application & Dashboard
 
-🔗 **Live Link App:** [live-link](https://play.google.com/store/apps/details?id=com.cleennconnect.app&hl=en)
-🔗 **Live Link Dasborad:** [live-link](https://dashboard.cleennconnect.com)
+* 📱 **Live Mobile Application:** [Google Play Store](https://play.google.com/store/apps/details?id=com.cleennconnect.app&hl=en)
+* 🖥️ **Live Dashboard:** [Dashboard](https://dashboard.cleennconnect.com)
 
 ---
 
@@ -576,8 +577,8 @@ Follow these steps to run the project locally:
 
 ### 1. Clone the repository
 ```
-git clone https://github.com/Tanvir286/video-editing-marketplace-frontend.git
-cd video-editing-marketplace-frontend
+git clone https://github.com/Tanvir286/cleaning-services-platform-frontend.git       
+cd cleaning-services-platform-frontend
 ```
 ### 2. Install dependencies
 ```
