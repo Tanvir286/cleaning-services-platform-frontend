@@ -4,6 +4,19 @@ A secure and scalable cleaning service marketplace that connects **Homeowners** 
 
 ---
 
+## 📸 Screenshots
+
+| Open Page | Homeonwer Page | Maid Page | Dashborad Page |
+|:---:|:---:|:---:||:---:|
+| ![Home Screenshot](./public/open.png) | ![Home Screenshot](./public/homeonwer.png) | ![Home Screenshot](./public/maid.png) | ![Home Screenshot](./public/dashborad.png) |
+
+---
+
+🔗 **Live Link App:** [live-link](https://play.google.com/store/apps/details?id=com.cleennconnect.app&hl=en)
+🔗 **Live Link Dasborad:** [live-link](https://dashboard.cleennconnect.com)
+
+---
+
 ## 🎯 Platform Overview
 
 The platform is designed around three primary roles:
