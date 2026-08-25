@@ -559,7 +559,7 @@ The platform brings together verified users, reviews and ratings, maid availabil
 
 # 🛠️ Recommended Tech Stack
 
-* **Mobile App:** Flutter (for Mobile GPS & Camera) or Next.js (Web Portal)
+* **Mobile App:** Flutter
 * **Frontend Dashborad:**  Next.js (Web Portal)
 * **Backend:** Node.js (NestJS )
 * **Database:** PostgreSQL (Prisma ORM) 
